@@ -3,11 +3,12 @@
 .mainLogoImg{
 	width:100px;
 	margin-right: 100px;
+	background-color: papayawhip;
 
 }
 
 .bgImgDiv{
-	background: url('img/headerPhoto.jpg') no-repeat;
+	background: url('../img/headerPhoto.jpg') no-repeat;
     background-size: 100%;
 }
 
