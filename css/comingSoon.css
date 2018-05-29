@@ -3,5 +3,11 @@
 .mainLogoImg{
 	width:100px;
 	margin-right: 100px;
-	
+
 }
+
+.bgImgDiv{
+	background: url('img/headerPhoto.jpg') no-repeat;
+    background-size: 100%;
+}
+
